@@ -2,7 +2,7 @@
 
 A Turing project for building an algorithmic Sudoku solver.
 
-Read the [Project Spec]() for more information.
+Read the [Project Spec](https://github.com/JumpstartLab/curriculum/blob/master/source/projects/robodoku.markdown) for more information.
 
 ### Usage
 
